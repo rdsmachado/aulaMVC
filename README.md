@@ -1,2 +1,2 @@
 # aulaPIII
-Examplo de uso do git
+Exemplo de uso do git
